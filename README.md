@@ -14,6 +14,9 @@
 <br>
 <br>
 
+<h3>🚀Técnologias usadas</h3>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
+
 <h2>Instalação da API</h2>
 
 ```
