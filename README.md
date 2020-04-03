@@ -26,3 +26,8 @@ $ npm install
 # Inicializando as migrations
 $ npx knex migrate:latest
 ```
+<br>
+
+<h3>📝 Licença</h3>
+
+<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/iurigarbim/Be-The-Hero/blob/master/LICENSE">LICENSE</a> para mais detalhes.</p>
