@@ -37,6 +37,9 @@ $ npx knex migrate:latest
   <li>Push na sua branch: <code>git push origin my-feature</code>.</li>
 </ul>
 <br>
+<h2>🎓 Quem ministrou durante a semana OmniStack ?</h2>
+<p>A semana foi ministrada pelo <a href="https://github.com/diego3g">Diego Fernandes</a></p>
+<br>
 <h2>📝 Licença</h2>
 <p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/iurigarbim/Be-The-Hero/blob/master/LICENSE">LICENSE</a> para mais detalhes.</p>
 
