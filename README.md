@@ -8,15 +8,15 @@
 </p>
 <br>
 <h2>💻 Projeto</h2>
-<br>
 <p>O Be The Hero é uma aplicação onde ONGs podem postar as descrições de uma ocorrência em que precisa de doação e pessoas podem fazer doações de qualquer valor através dessas ocorrências.</p>
+<br>
 <h2>🚀Técnologias usadas</h2>
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 <ul>
-  <li><a href"https://nodejs.org/en/">Node.js</a></li>
-  <li><a href"https://pt-br.reactjs.org/">React</a></li>
-  <li><a href"https://expressjs.com/pt-br/">Express</a></li>
-  <li><a href"https://expo.io/">Expo</a></li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://pt-br.reactjs.org/">React</a></li>
+  <li><a href="https://expressjs.com/pt-br/">Express</a></li>
+  <li><a href="https://expo.io/">Expo</a></li>
 </ul>
 <br>
 <h2>🖥️ Instalação da API</h2>
