@@ -32,3 +32,7 @@ $ npx knex migrate:latest
 <br>
 <h2>📝 Licença</h2>
 <p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/iurigarbim/Be-The-Hero/blob/master/LICENSE">LICENSE</a> para mais detalhes.</p>
+
+<hr>
+<p>Feito com ❤️ by Iuri Garbim 👨‍🎓</p>
+</hr>
